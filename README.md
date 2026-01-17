@@ -1,13 +1,15 @@
 # 💫 About Me:
 👋 Hi, I’m Paras Ahuja
 
-I’m currently working on building an AI Agent powered by a Knowledge Graph–based RAG (Retrieval-Augmented Generation) strategy using **Python, Graphiti, and Neo4j**.
+I’m a DATA and AI Engineer with over 8 years of experience across Telecom and Banking Domain.
+As part of my current workscope in AI, I’m currently working on building an AI Agent powered by a Knowledge Graph–based RAG (Retrieval-Augmented Generation) strategy using **Python, Graphiti, and Neo4j**.
 
 I’m deeply focused on developing an in-depth understanding of:
 
 * How **LLMs** work internally
 * How **AI agents** are designed and optimized
 * Practical ways to simplify and scale work using **AI-driven systems**
+* Understanding Data Structure Concepts implementation using Python
 
 ### 🤝 Collaboration
 
