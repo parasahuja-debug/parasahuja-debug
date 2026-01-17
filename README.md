@@ -1,5 +1,38 @@
 # 💫 About Me:
-I'm currently working on making AI Agent powered by Knowledge Graph RAG strategy built using Python,Graphiti and Neo4j.<br>I'm currently building in-depth understanding around how LLMs work, AI agent are optimised and how to ease work around using AI.<br>I'm looking to collaborate on Agentic Workflows, RAG optimisations and Code optimisations.<br>Ask me about Neural Network, LLMs, RAG, Agents, Artificial Intelligence Basics.<br>Reach me on - parasahujapunem@gmail.com<br>Fun Fact, you will find me around linkedin making it easier for everyone about what AI is and what it can do.<br>
+👋 Hi, I’m Paras Ahuja
+
+I’m currently working on building an AI Agent powered by a Knowledge Graph–based RAG (Retrieval-Augmented Generation) strategy using **Python, Graphiti, and Neo4j**.
+
+I’m deeply focused on developing an in-depth understanding of:
+
+* How **LLMs** work internally
+* How **AI agents** are designed and optimized
+* Practical ways to simplify and scale work using **AI-driven systems**
+
+### 🤝 Collaboration
+
+I’m actively looking to collaborate on:
+
+* Agentic workflows
+* RAG architecture and optimizations
+* Code and system-level optimizations
+
+### 💬 Ask Me About
+
+* Neural Networks
+* Large Language Models (LLMs)
+* RAG systems
+* AI Agents
+* Artificial Intelligence fundamentals
+
+### 📫 Reach Me
+
+📧 Email: **[parasahujapunem@gmail.com](mailto:parasahujapunem@gmail.com)**
+
+### 🚀 Fun Fact
+
+You’ll often find me on **LinkedIn**, breaking down AI concepts and making it easier for everyone to understand what AI is and what it can actually do.
+
 
 
 ## 🌐 Socials:
