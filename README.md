@@ -1,15 +1,24 @@
 # 💫 About Me:
 👋 Hi, I’m Paras Ahuja
 
-I’m a DATA and AI Engineer with over 8 years of experience across Telecom and Banking Domain.
-As part of my current workscope in AI, I’m currently working on building an AI Agent powered by a Knowledge Graph–based RAG (Retrieval-Augmented Generation) strategy using **Python, Graphiti, and Neo4j**.
+I’m a DATA and AI Engineer with over 8 years of experience across Manufacturing(Automobile),Telecom and Banking Domain.
+As part of my current workscope in AI, I’m currently working on building an Agentic workflows using Claude Code
 
 I’m deeply focused on developing an in-depth understanding of:
 
-* How **LLMs** work internally
+* How **LLMs** work internally, seq2seq/seq2seq with Attention
 * How **AI agents** are designed and optimized
 * Practical ways to simplify and scale work using **AI-driven systems**
 * Understanding Data Structure Concepts implementation using Python
+* Leetcode Problems.
+
+### New topics I have been learning about
+
+* Harness Engineering - Setup around the LLMs.
+* Loop Engineering and Hooks Setup.
+* OKF (version that has been released)
+* Claude Code Workflows, Templates, Commands, Settings.
+* Worktrees for Setting up Agentic sessions.
 
 ### 🤝 Collaboration
 
@@ -26,6 +35,7 @@ I’m actively looking to collaborate on:
 * RAG systems
 * AI Agents
 * Artificial Intelligence fundamentals
+
 
 ### 📫 Reach Me
 
