@@ -4,9 +4,50 @@
 I’m a DATA and AI Engineer with over 8 years of experience across Manufacturing(Automobile),Telecom and Banking Domain.
 As part of my current workscope in AI, I’m currently working on building an Agentic workflows using Claude Code
 
+### Projects Actively working upon Locally (excludes professional summary due to privacy)
+
+* AI Driven Tinder System Design :
+    - Tech stack - Python Backend + Angular Frontend
+    - AI workflows -
+        - AI chat across screens with different capabilities, Normal Conversation + APP information + Profile Information (Local Inference)
+        - AI suggested bio and icebreakers (Claude Inference)
+        - AI checks across the photo upload (hugging face inference- multimodal)
+    - Harness - 
+      - Development Harness
+      - Runtime Harness
+    - Evaluation -
+        - Langsmith - Human Evals (route traces to a person for manual labeling/correction), Feedback capture (API to attach user feedback                       (thumbs up/down, corrections) to a specific traced run), Datasets & evaluation(Run evaluators against a dataset:                             heuristic (exact match, regex), LLM-as-judge, Latency, token counts, and cost per call/run
+        - Mem0 - Long Term Memory - history, search.
+    - Observability - Prometheus / Grafana
+* Portfolio Agent :
+  - Tech stack - Python backend + Streamlit
+  - AI workflows -
+    - fund-researcher — fund recommendation reasoning (the numbers themselves are pulled from data, not computed by the LLM)
+    - stock-screener — short rationale per future-proof stock pick 
+    - industry-analyst — qualitative sector synthesis from a ranked stock list 
+    - news-scanner — dedupe/summarize/impact-score raw search results 
+    - market-scout — alt-investment research write-ups
+    - tactical-planner — reasoning behind the 9-month glide path 
+    - deep-checkin-researcher — broad cross-check synthesis, manual trigger only 
+    - report-writer — renders the above into Excel/Word/Markdown
+    - eval-agent — judges another agent's output, manual trigger only 
+    - cost-auditor — mostly SQL over llm_usage_log; only calls an LLM if it's writing prose commentary, not for the numeric table itself
+  _ Evaluation - 
+    - RAGAS
+    - single Python wrapper (function or decorator) sits around every Claude API call
+    - faithfulness/groundedness: are a report's claims actually supported by the source material (news articles, fundamentals, search             results) the generating agent retrieved, using the Ragas metric
+  - Harness - 
+    - Development Harness
+    - Runtime Harness
+
+Preparing for:
+* Claude Certified Developer — Foundations
+* Claude Certified Architect — Foundations
+
 I’m deeply focused on developing an in-depth understanding of:
 
-* How **LLMs** work internally, seq2seq/seq2seq with Attention
+* Dark Factory AI system
+* How **LLMs** work internally
 * How **AI agents** are designed and optimized
 * Practical ways to simplify and scale work using **AI-driven systems**
 * Understanding Data Structure Concepts implementation using Python
@@ -30,6 +71,7 @@ I’m actively looking to collaborate on:
 
 ### 💬 Ask Me About
 
+* Research Papers
 * Neural Networks
 * Large Language Models (LLMs)
 * RAG systems
