@@ -19,7 +19,11 @@ As part of my current workscope in AI, I’m currently working on building an Ag
         - Langsmith - Human Evals (route traces to a person for manual labeling/correction), Feedback capture (API to attach user feedback                       (thumbs up/down, corrections) to a specific traced run), Datasets & evaluation(Run evaluators against a dataset:                             heuristic (exact match, regex), LLM-as-judge, Latency, token counts, and cost per call/run
         - Mem0 - Long Term Memory - history, search.
     - Observability - Prometheus / Grafana
+    - Kubernetes integration underway(Traefik, Kind), AWS, Opentelemetry, Redpanda(kafka), Redis, Postgress. 
+* Second Brain : (Private Project)
+    Claude Driven Construction 
 * Portfolio Agent :
+  **In Redesigning Phase now**
   - Tech stack - Python backend + Streamlit
   - AI workflows -
     - fund-researcher — fund recommendation reasoning (the numbers themselves are pulled from data, not computed by the LLM)
